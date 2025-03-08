@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f2f6;
+  font-family: sans-serif;
+}
+
+.sidebar .sidebar-content {
+  background-color: #262730;
+  color: white;
+}
+
+.stTextInput > label {
+  color: black;
+}
+
+.stNumberInput > label {
+  color: black;
+}
+
+.stApp {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
